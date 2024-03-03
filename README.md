@@ -1,5 +1,7 @@
 # SD-Plotter-DB
 
+Version 2.31
+
 This version of the program is an improvement over the SD Plotter 1.00 project.
 
 The software was developed for industrial automation, focusing on the management of a pilot plant for the chemical industry, but as the probe inputs are renameable and the parameters can be changed, there are countless possibilities for use. 
